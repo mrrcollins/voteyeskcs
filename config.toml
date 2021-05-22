@@ -1,0 +1,6 @@
+baseURL = "https://www.voteyeskcs.com/"
+languageCode = "en-us"
+title = "Vote Yes KCS"
+theme = "hugo-hero-theme"
+
+publishDir = "docs"
